@@ -1,0 +1,26 @@
+{
+  "name": "@sebademasi10/sum",
+  "version": "1.0.0",
+  "description": "Permorms the addition between 2 numbers",
+  "main": "sum.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sebademasi10/sum.git"
+  },
+  "keywords": [
+    "sum",
+    "addition"
+  ],
+  "author": "Sebastián Demasi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sebademasi10/sum/issues"
+  },
+  "homepage": "https://github.com/sebademasi10/sum#readme",
+  "devDependencies": {
+    "typescript": "^4.7.4"
+  }
+}
